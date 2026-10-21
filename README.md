@@ -2,7 +2,7 @@
 
 Which industry groups should a Clients & Markets team prioritise in FY27? A scorecard built **only from official, public Kenyan data**: KNBS Quarterly GDP (Q1 2026), CBK Bank Supervision Annual Report 2025, CBK Credit Officer Survey (June 2026) and the KNBS Economic Survey 2026.
 
-**Start here:** `docs/executive_summary.md`, then `dashboard/opportunity_radar_dashboard.html` and `model/opportunity_radar_model.xlsx`.
+**Start here:** `docs/executive_summary.md`, then `dashboard/opportunity_radar_dashboard.html`(**[View Presentation](https://samolart.github.io/kenya-opportunity-radar/)**) and `model/opportunity_radar_model.xlsx`.
 
 | Folder | Contents |
 |---|---|
