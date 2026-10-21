@@ -1,0 +1,132 @@
+{
+ "scenarios": {
+  "Balanced": [
+   20,
+   25,
+   15,
+   20,
+   20
+  ],
+  "Growth-led": [
+   10,
+   35,
+   25,
+   20,
+   10
+  ],
+  "Risk-aware": [
+   20,
+   15,
+   10,
+   15,
+   40
+  ],
+  "Scale-led": [
+   45,
+   15,
+   10,
+   15,
+   15
+  ],
+  "Equal": [
+   20,
+   20,
+   20,
+   20,
+   20
+  ]
+ },
+ "pillars": [
+  "scale",
+  "growth_recent",
+  "growth_track",
+  "credit_demand",
+  "credit_health"
+ ],
+ "groups": {
+  "Financial Services": [
+   [
+    "Financial & Insurance"
+   ],
+   [
+    "Financial Services"
+   ]
+  ],
+  "Energy & Resources": [
+   [
+    "Electricity & Water Supply",
+    "Mining & Quarrying"
+   ],
+   [
+    "Energy and Water",
+    "Mining and Quarrying"
+   ]
+  ],
+  "Technology, Media & Telecom": [
+   [
+    "Information & Communication"
+   ],
+   [
+    "Transport and Communication"
+   ]
+  ],
+  "Transport & Logistics": [
+   [
+    "Transportation & Storage"
+   ],
+   [
+    "Transport and Communication"
+   ]
+  ],
+  "Public Sector & Development": [
+   [
+    "Public Administration",
+    "Education"
+   ],
+   []
+  ],
+  "Health": [
+   [
+    "Health"
+   ],
+   []
+  ],
+  "Consumer & Retail": [
+   [
+    "Wholesale & Retail Trade",
+    "Accommodation & Food Services"
+   ],
+   [
+    "Trade",
+    "Tourism, Restaurant and Hotels"
+   ]
+  ],
+  "Agribusiness": [
+   [
+    "Agriculture"
+   ],
+   [
+    "Agriculture"
+   ]
+  ],
+  "Real Estate & Construction": [
+   [
+    "Real Estate",
+    "Construction"
+   ],
+   [
+    "Real Estate",
+    "Building and Construction"
+   ]
+  ],
+  "Manufacturing": [
+   [
+    "Manufacturing"
+   ],
+   [
+    "Manufacturing"
+   ]
+  ]
+ },
+ "total_va_2025": 10470414.0
+}

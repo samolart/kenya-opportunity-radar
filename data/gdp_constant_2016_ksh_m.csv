@@ -1,0 +1,542 @@
+year,period,activity,value
+2021,FY,Agriculture,1699959.0
+2021,FY,Mining & Quarrying,103842.0
+2021,FY,Manufacturing,810827.0
+2021,FY,Electricity & Water Supply,231759.0
+2021,FY,Construction,552764.0
+2021,FY,Wholesale & Retail Trade,786202.0
+2021,FY,Accommodation & Food Services,81037.0
+2021,FY,Transportation & Storage,891983.0
+2021,FY,Information & Communication,290224.0
+2021,FY,Financial & Insurance,802964.0
+2021,FY,Public Administration,564957.0
+2021,FY,"Professional, Admin & Support Services",244148.0
+2021,FY,Real Estate,951093.0
+2021,FY,Education,462227.0
+2021,FY,Health,213529.0
+2021,FY,Other Services,197731.0
+2021,FY,FISIM,-287975.0
+2021,FY,All Industries at Basic Prices,8597270.0
+2021,FY,Taxes on Products,798672.0
+2021,FY,GDP at Market Prices,9395942.0
+2022,FY,Agriculture,1675047.0
+2022,FY,Mining & Quarrying,113458.0
+2022,FY,Manufacturing,831900.0
+2022,FY,Electricity & Water Supply,244552.0
+2022,FY,Construction,575215.0
+2022,FY,Wholesale & Retail Trade,813958.0
+2022,FY,Accommodation & Food Services,102728.0
+2022,FY,Transportation & Storage,943944.0
+2022,FY,Information & Communication,316437.0
+2022,FY,Financial & Insurance,899695.0
+2022,FY,Public Administration,593962.0
+2022,FY,"Professional, Admin & Support Services",267328.0
+2022,FY,Real Estate,993623.0
+2022,FY,Education,486124.0
+2022,FY,Health,220762.0
+2022,FY,Other Services,210574.0
+2022,FY,FISIM,-288671.0
+2022,FY,All Industries at Basic Prices,9000636.0
+2022,FY,Taxes on Products,851947.0
+2022,FY,GDP at Market Prices,9852583.0
+2023,FY,Agriculture,1784776.0
+2023,FY,Mining & Quarrying,106077.0
+2023,FY,Manufacturing,849801.0
+2023,FY,Electricity & Water Supply,252304.0
+2023,FY,Construction,592396.0
+2023,FY,Wholesale & Retail Trade,841017.0
+2023,FY,Accommodation & Food Services,137204.0
+2023,FY,Transportation & Storage,996251.0
+2023,FY,Information & Communication,349114.0
+2023,FY,Financial & Insurance,990623.0
+2023,FY,Public Administration,623793.0
+2023,FY,"Professional, Admin & Support Services",293679.0
+2023,FY,Real Estate,1066229.0
+2023,FY,Education,500152.0
+2023,FY,Health,230652.0
+2023,FY,Other Services,219730.0
+2023,FY,FISIM,-296486.0
+2023,FY,All Industries at Basic Prices,9537313.0
+2023,FY,Taxes on Products,878837.0
+2023,FY,GDP at Market Prices,10416150.0
+2024,FY,Agriculture,1862520.0
+2024,FY,Mining & Quarrying,97768.0
+2024,FY,Manufacturing,874876.0
+2024,FY,Electricity & Water Supply,259182.0
+2024,FY,Construction,588156.0
+2024,FY,Wholesale & Retail Trade,874817.0
+2024,FY,Accommodation & Food Services,172785.0
+2024,FY,Transportation & Storage,1038796.0
+2024,FY,Information & Communication,373860.0
+2024,FY,Financial & Insurance,1065163.0
+2024,FY,Public Administration,677991.0
+2024,FY,"Professional, Admin & Support Services",312376.0
+2024,FY,Real Estate,1122525.0
+2024,FY,Education,524323.0
+2024,FY,Health,244430.0
+2024,FY,Other Services,229550.0
+2024,FY,FISIM,-325317.0
+2024,FY,All Industries at Basic Prices,9993801.0
+2024,FY,Taxes on Products,907761.0
+2024,FY,GDP at Market Prices,10901562.0
+2025,FY,Agriculture,1920338.0
+2025,FY,Mining & Quarrying,112338.0
+2025,FY,Manufacturing,892166.0
+2025,FY,Electricity & Water Supply,272702.0
+2025,FY,Construction,628320.0
+2025,FY,Wholesale & Retail Trade,905941.0
+2025,FY,Accommodation & Food Services,199664.0
+2025,FY,Transportation & Storage,1077187.0
+2025,FY,Information & Communication,391886.0
+2025,FY,Financial & Insurance,1134626.0
+2025,FY,Public Administration,734372.0
+2025,FY,"Professional, Admin & Support Services",328078.0
+2025,FY,Real Estate,1166182.0
+2025,FY,Education,539234.0
+2025,FY,Health,257935.0
+2025,FY,Other Services,235415.0
+2025,FY,FISIM,-325971.0
+2025,FY,All Industries at Basic Prices,10470414.0
+2025,FY,Taxes on Products,936177.0
+2025,FY,GDP at Market Prices,11406590.0
+2021,Q1,Agriculture,461672.0
+2021,Q1,Mining & Quarrying,25404.0
+2021,Q1,Manufacturing,199847.0
+2021,Q1,Electricity & Water Supply,56984.0
+2021,Q1,Construction,134419.0
+2021,Q1,Wholesale & Retail Trade,204286.0
+2021,Q1,Accommodation & Food Services,16095.0
+2021,Q1,Transportation & Storage,207444.0
+2021,Q1,Information & Communication,70811.0
+2021,Q1,Financial & Insurance,183908.0
+2021,Q1,Public Administration,129888.0
+2021,Q1,"Professional, Admin & Support Services",55501.0
+2021,Q1,Real Estate,232078.0
+2021,Q1,Education,120859.0
+2021,Q1,Health,48425.0
+2021,Q1,Other Services,45598.0
+2021,Q1,FISIM,-67755.0
+2021,Q1,All Industries at Basic Prices,2125464.0
+2021,Q1,Taxes on Products,194692.0
+2021,Q1,GDP at Market Prices,2320156.0
+2021,Q1,"GDP, Seasonally Adjusted",2289797.0
+2021,Q2,Agriculture,488136.0
+2021,Q2,Mining & Quarrying,24917.0
+2021,Q2,Manufacturing,198361.0
+2021,Q2,Electricity & Water Supply,55378.0
+2021,Q2,Construction,133581.0
+2021,Q2,Wholesale & Retail Trade,183685.0
+2021,Q2,Accommodation & Food Services,16136.0
+2021,Q2,Transportation & Storage,222933.0
+2021,Q2,Information & Communication,69012.0
+2021,Q2,Financial & Insurance,190709.0
+2021,Q2,Public Administration,146889.0
+2021,Q2,"Professional, Admin & Support Services",59276.0
+2021,Q2,Real Estate,236145.0
+2021,Q2,Education,106214.0
+2021,Q2,Health,54581.0
+2021,Q2,Other Services,50385.0
+2021,Q2,FISIM,-66591.0
+2021,Q2,All Industries at Basic Prices,2169745.0
+2021,Q2,Taxes on Products,187892.0
+2021,Q2,GDP at Market Prices,2357637.0
+2021,Q2,"GDP, Seasonally Adjusted",2323560.0
+2021,Q3,Agriculture,351517.0
+2021,Q3,Mining & Quarrying,23512.0
+2021,Q3,Manufacturing,199422.0
+2021,Q3,Electricity & Water Supply,59626.0
+2021,Q3,Construction,142532.0
+2021,Q3,Wholesale & Retail Trade,187788.0
+2021,Q3,Accommodation & Food Services,20880.0
+2021,Q3,Transportation & Storage,235278.0
+2021,Q3,Information & Communication,71801.0
+2021,Q3,Financial & Insurance,198755.0
+2021,Q3,Public Administration,142412.0
+2021,Q3,"Professional, Admin & Support Services",62149.0
+2021,Q3,Real Estate,239807.0
+2021,Q3,Education,114311.0
+2021,Q3,Health,52626.0
+2021,Q3,Other Services,52923.0
+2021,Q3,FISIM,-70602.0
+2021,Q3,All Industries at Basic Prices,2084736.0
+2021,Q3,Taxes on Products,196977.0
+2021,Q3,GDP at Market Prices,2281713.0
+2021,Q3,"GDP, Seasonally Adjusted",2349582.0
+2021,Q4,Agriculture,398634.0
+2021,Q4,Mining & Quarrying,30009.0
+2021,Q4,Manufacturing,213196.0
+2021,Q4,Electricity & Water Supply,59771.0
+2021,Q4,Construction,142233.0
+2021,Q4,Wholesale & Retail Trade,210443.0
+2021,Q4,Accommodation & Food Services,27926.0
+2021,Q4,Transportation & Storage,226329.0
+2021,Q4,Information & Communication,78600.0
+2021,Q4,Financial & Insurance,229591.0
+2021,Q4,Public Administration,145768.0
+2021,Q4,"Professional, Admin & Support Services",67222.0
+2021,Q4,Real Estate,243063.0
+2021,Q4,Education,120843.0
+2021,Q4,Health,57897.0
+2021,Q4,Other Services,48825.0
+2021,Q4,FISIM,-83026.0
+2021,Q4,All Industries at Basic Prices,2217325.0
+2021,Q4,Taxes on Products,219112.0
+2021,Q4,GDP at Market Prices,2436437.0
+2021,Q4,"GDP, Seasonally Adjusted",2430670.0
+2022,Q1,Agriculture,457587.0
+2022,Q1,Mining & Quarrying,30015.0
+2022,Q1,Manufacturing,207019.0
+2022,Q1,Electricity & Water Supply,58820.0
+2022,Q1,Construction,142461.0
+2022,Q1,Wholesale & Retail Trade,213447.0
+2022,Q1,Accommodation & Food Services,21873.0
+2022,Q1,Transportation & Storage,221440.0
+2022,Q1,Information & Communication,76543.0
+2022,Q1,Financial & Insurance,214036.0
+2022,Q1,Public Administration,138384.0
+2022,Q1,"Professional, Admin & Support Services",62879.0
+2022,Q1,Real Estate,243301.0
+2022,Q1,Education,126354.0
+2022,Q1,Health,50728.0
+2022,Q1,Other Services,49814.0
+2022,Q1,FISIM,-68049.0
+2022,Q1,All Industries at Basic Prices,2246653.0
+2022,Q1,Taxes on Products,210788.0
+2022,Q1,GDP at Market Prices,2457441.0
+2022,Q1,"GDP, Seasonally Adjusted",2422271.0
+2022,Q2,Agriculture,477700.0
+2022,Q2,Mining & Quarrying,28988.0
+2022,Q2,Manufacturing,205411.0
+2022,Q2,Electricity & Water Supply,58642.0
+2022,Q2,Construction,139549.0
+2022,Q2,Wholesale & Retail Trade,190452.0
+2022,Q2,Accommodation & Food Services,22609.0
+2022,Q2,Transportation & Storage,237327.0
+2022,Q2,Information & Communication,75998.0
+2022,Q2,Financial & Insurance,219893.0
+2022,Q2,Public Administration,153194.0
+2022,Q2,"Professional, Admin & Support Services",65832.0
+2022,Q2,Real Estate,245877.0
+2022,Q2,Education,111062.0
+2022,Q2,Health,56337.0
+2022,Q2,Other Services,52888.0
+2022,Q2,FISIM,-66804.0
+2022,Q2,All Industries at Basic Prices,2274955.0
+2022,Q2,Taxes on Products,198059.0
+2022,Q2,GDP at Market Prices,2473014.0
+2022,Q2,"GDP, Seasonally Adjusted",2443271.0
+2022,Q3,Agriculture,347768.0
+2022,Q3,Mining & Quarrying,27385.0
+2022,Q3,Manufacturing,203163.0
+2022,Q3,Electricity & Water Supply,63600.0
+2022,Q3,Construction,147461.0
+2022,Q3,Wholesale & Retail Trade,193976.0
+2022,Q3,Accommodation & Food Services,24215.0
+2022,Q3,Transportation & Storage,247933.0
+2022,Q3,Information & Communication,79517.0
+2022,Q3,Financial & Insurance,216069.0
+2022,Q3,Public Administration,148347.0
+2022,Q3,"Professional, Admin & Support Services",67809.0
+2022,Q3,Real Estate,249694.0
+2022,Q3,Education,119392.0
+2022,Q3,Health,53907.0
+2022,Q3,Other Services,56411.0
+2022,Q3,FISIM,-70653.0
+2022,Q3,All Industries at Basic Prices,2175994.0
+2022,Q3,Taxes on Products,210384.0
+2022,Q3,GDP at Market Prices,2386378.0
+2022,Q3,"GDP, Seasonally Adjusted",2468050.0
+2022,Q4,Agriculture,391992.0
+2022,Q4,Mining & Quarrying,27069.0
+2022,Q4,Manufacturing,216307.0
+2022,Q4,Electricity & Water Supply,63490.0
+2022,Q4,Construction,145744.0
+2022,Q4,Wholesale & Retail Trade,216082.0
+2022,Q4,Accommodation & Food Services,34031.0
+2022,Q4,Transportation & Storage,237243.0
+2022,Q4,Information & Communication,84379.0
+2022,Q4,Financial & Insurance,249697.0
+2022,Q4,Public Administration,154037.0
+2022,Q4,"Professional, Admin & Support Services",70808.0
+2022,Q4,Real Estate,254750.0
+2022,Q4,Education,129316.0
+2022,Q4,Health,59790.0
+2022,Q4,Other Services,51462.0
+2022,Q4,FISIM,-83164.0
+2022,Q4,All Industries at Basic Prices,2303033.0
+2022,Q4,Taxes on Products,232716.0
+2022,Q4,GDP at Market Prices,2535749.0
+2022,Q4,"GDP, Seasonally Adjusted",2515843.0
+2023,Q1,Agriculture,487134.0
+2023,Q1,Mining & Quarrying,26830.0
+2023,Q1,Manufacturing,211344.0
+2023,Q1,Electricity & Water Supply,61066.0
+2023,Q1,Construction,144447.0
+2023,Q1,Wholesale & Retail Trade,221283.0
+2023,Q1,Accommodation & Food Services,32011.0
+2023,Q1,Transportation & Storage,236521.0
+2023,Q1,Information & Communication,84529.0
+2023,Q1,Financial & Insurance,224178.0
+2023,Q1,Public Administration,149988.0
+2023,Q1,"Professional, Admin & Support Services",68265.0
+2023,Q1,Real Estate,259430.0
+2023,Q1,Education,130864.0
+2023,Q1,Health,53150.0
+2023,Q1,Other Services,51835.0
+2023,Q1,FISIM,-68341.0
+2023,Q1,All Industries at Basic Prices,2374536.0
+2023,Q1,Taxes on Products,216503.0
+2023,Q1,GDP at Market Prices,2591039.0
+2023,Q1,"GDP, Seasonally Adjusted",2552264.0
+2023,Q2,Agriculture,515262.0
+2023,Q2,Mining & Quarrying,26650.0
+2023,Q2,Manufacturing,209452.0
+2023,Q2,Electricity & Water Supply,60448.0
+2023,Q2,Construction,141489.0
+2023,Q2,Wholesale & Retail Trade,195873.0
+2023,Q2,Accommodation & Food Services,32179.0
+2023,Q2,Transportation & Storage,246289.0
+2023,Q2,Information & Communication,82376.0
+2023,Q2,Financial & Insurance,244342.0
+2023,Q2,Public Administration,159339.0
+2023,Q2,"Professional, Admin & Support Services",70262.0
+2023,Q2,Real Estate,264425.0
+2023,Q2,Education,114253.0
+2023,Q2,Health,58708.0
+2023,Q2,Other Services,54464.0
+2023,Q2,FISIM,-70212.0
+2023,Q2,All Industries at Basic Prices,2405598.0
+2023,Q2,Taxes on Products,203921.0
+2023,Q2,GDP at Market Prices,2609519.0
+2023,Q2,"GDP, Seasonally Adjusted",2584085.0
+2023,Q3,Agriculture,365664.0
+2023,Q3,Mining & Quarrying,27561.0
+2023,Q3,Manufacturing,208816.0
+2023,Q3,Electricity & Water Supply,66029.0
+2023,Q3,Construction,153518.0
+2023,Q3,Wholesale & Retail Trade,201250.0
+2023,Q3,Accommodation & Food Services,32562.0
+2023,Q3,Transportation & Storage,259065.0
+2023,Q3,Information & Communication,87273.0
+2023,Q3,Financial & Insurance,245707.0
+2023,Q3,Public Administration,155787.0
+2023,Q3,"Professional, Admin & Support Services",74631.0
+2023,Q3,Real Estate,269054.0
+2023,Q3,Education,122507.0
+2023,Q3,Health,56338.0
+2023,Q3,Other Services,59977.0
+2023,Q3,FISIM,-76457.0
+2023,Q3,All Industries at Basic Prices,2309284.0
+2023,Q3,Taxes on Products,217000.0
+2023,Q3,GDP at Market Prices,2526285.0
+2023,Q3,"GDP, Seasonally Adjusted",2620049.0
+2023,Q4,Agriculture,416715.0
+2023,Q4,Mining & Quarrying,25036.0
+2023,Q4,Manufacturing,220188.0
+2023,Q4,Electricity & Water Supply,64761.0
+2023,Q4,Construction,152943.0
+2023,Q4,Wholesale & Retail Trade,222612.0
+2023,Q4,Accommodation & Food Services,40451.0
+2023,Q4,Transportation & Storage,254376.0
+2023,Q4,Information & Communication,94936.0
+2023,Q4,Financial & Insurance,276396.0
+2023,Q4,Public Administration,158679.0
+2023,Q4,"Professional, Admin & Support Services",80521.0
+2023,Q4,Real Estate,273319.0
+2023,Q4,Education,132528.0
+2023,Q4,Health,62456.0
+2023,Q4,Other Services,53454.0
+2023,Q4,FISIM,-81475.0
+2023,Q4,All Industries at Basic Prices,2447895.0
+2023,Q4,Taxes on Products,241412.0
+2023,Q4,GDP at Market Prices,2689307.0
+2023,Q4,"GDP, Seasonally Adjusted",2657695.0
+2024,Q1,Agriculture,513839.0
+2024,Q1,Mining & Quarrying,22744.0
+2024,Q1,Manufacturing,215148.0
+2024,Q1,Electricity & Water Supply,63146.0
+2024,Q1,Construction,143743.0
+2024,Q1,Wholesale & Retail Trade,230062.0
+2024,Q1,Accommodation & Food Services,43848.0
+2024,Q1,Transportation & Storage,246145.0
+2024,Q1,Information & Communication,91639.0
+2024,Q1,Financial & Insurance,244902.0
+2024,Q1,Public Administration,159507.0
+2024,Q1,"Professional, Admin & Support Services",76492.0
+2024,Q1,Real Estate,275867.0
+2024,Q1,Education,133372.0
+2024,Q1,Health,55895.0
+2024,Q1,Other Services,54375.0
+2024,Q1,FISIM,-79723.0
+2024,Q1,All Industries at Basic Prices,2491001.0
+2024,Q1,Taxes on Products,220948.0
+2024,Q1,GDP at Market Prices,2711949.0
+2024,Q1,"GDP, Seasonally Adjusted",2670391.0
+2024,Q2,Agriculture,536735.0
+2024,Q2,Mining & Quarrying,23388.0
+2024,Q2,Manufacturing,215978.0
+2024,Q2,Electricity & Water Supply,61681.0
+2024,Q2,Construction,135409.0
+2024,Q2,Wholesale & Retail Trade,201367.0
+2024,Q2,Accommodation & Food Services,43308.0
+2024,Q2,Transportation & Storage,254826.0
+2024,Q2,Information & Communication,87566.0
+2024,Q2,Financial & Insurance,263378.0
+2024,Q2,Public Administration,172691.0
+2024,Q2,"Professional, Admin & Support Services",76100.0
+2024,Q2,Real Estate,279019.0
+2024,Q2,Education,117703.0
+2024,Q2,Health,63253.0
+2024,Q2,Other Services,56790.0
+2024,Q2,FISIM,-78392.0
+2024,Q2,All Industries at Basic Prices,2510800.0
+2024,Q2,Taxes on Products,208822.0
+2024,Q2,GDP at Market Prices,2719622.0
+2024,Q2,"GDP, Seasonally Adjusted",2697872.0
+2024,Q3,Agriculture,381435.0
+2024,Q3,Mining & Quarrying,25324.0
+2024,Q3,Manufacturing,213978.0
+2024,Q3,Electricity & Water Supply,67228.0
+2024,Q3,Construction,149632.0
+2024,Q3,Wholesale & Retail Trade,206843.0
+2024,Q3,Accommodation & Food Services,40106.0
+2024,Q3,Transportation & Storage,270428.0
+2024,Q3,Information & Communication,93497.0
+2024,Q3,Financial & Insurance,262742.0
+2024,Q3,Public Administration,169059.0
+2024,Q3,"Professional, Admin & Support Services",78024.0
+2024,Q3,Real Estate,282207.0
+2024,Q3,Education,129344.0
+2024,Q3,Health,59622.0
+2024,Q3,Other Services,63059.0
+2024,Q3,FISIM,-84636.0
+2024,Q3,All Industries at Basic Prices,2407892.0
+2024,Q3,Taxes on Products,228347.0
+2024,Q3,GDP at Market Prices,2636239.0
+2024,Q3,"GDP, Seasonally Adjusted",2737527.0
+2024,Q4,Agriculture,430512.0
+2024,Q4,Mining & Quarrying,26311.0
+2024,Q4,Manufacturing,229772.0
+2024,Q4,Electricity & Water Supply,67127.0
+2024,Q4,Construction,159372.0
+2024,Q4,Wholesale & Retail Trade,236544.0
+2024,Q4,Accommodation & Food Services,45524.0
+2024,Q4,Transportation & Storage,267397.0
+2024,Q4,Information & Communication,101158.0
+2024,Q4,Financial & Insurance,294141.0
+2024,Q4,Public Administration,176735.0
+2024,Q4,"Professional, Admin & Support Services",81760.0
+2024,Q4,Real Estate,285432.0
+2024,Q4,Education,143904.0
+2024,Q4,Health,65660.0
+2024,Q4,Other Services,55327.0
+2024,Q4,FISIM,-82566.0
+2024,Q4,All Industries at Basic Prices,2584108.0
+2024,Q4,Taxes on Products,249645.0
+2024,Q4,GDP at Market Prices,2833753.0
+2024,Q4,"GDP, Seasonally Adjusted",2795497.0
+2025,Q1,Agriculture,541319.0
+2025,Q1,Mining & Quarrying,25628.0
+2025,Q1,Manufacturing,221136.0
+2025,Q1,Electricity & Water Supply,65715.0
+2025,Q1,Construction,150281.0
+2025,Q1,Wholesale & Retail Trade,239942.0
+2025,Q1,Accommodation & Food Services,47352.0
+2025,Q1,Transportation & Storage,255011.0
+2025,Q1,Information & Communication,96655.0
+2025,Q1,Financial & Insurance,257934.0
+2025,Q1,Public Administration,174665.0
+2025,Q1,"Professional, Admin & Support Services",79636.0
+2025,Q1,Real Estate,288692.0
+2025,Q1,Education,135755.0
+2025,Q1,Health,58523.0
+2025,Q1,Other Services,55687.0
+2025,Q1,FISIM,-80173.0
+2025,Q1,All Industries at Basic Prices,2613759.0
+2025,Q1,Taxes on Products,230102.0
+2025,Q1,GDP at Market Prices,2843861.0
+2025,Q1,"GDP, Seasonally Adjusted",2798172.0
+2025,Q2,Agriculture,558239.0
+2025,Q2,Mining & Quarrying,26596.0
+2025,Q2,Manufacturing,218864.0
+2025,Q2,Electricity & Water Supply,65712.0
+2025,Q2,Construction,145314.0
+2025,Q2,Wholesale & Retail Trade,206602.0
+2025,Q2,Accommodation & Food Services,48847.0
+2025,Q2,Transportation & Storage,263308.0
+2025,Q2,Information & Communication,92766.0
+2025,Q2,Financial & Insurance,282111.0
+2025,Q2,Public Administration,187800.0
+2025,Q2,"Professional, Admin & Support Services",81415.0
+2025,Q2,Real Estate,291138.0
+2025,Q2,Education,122118.0
+2025,Q2,Health,67664.0
+2025,Q2,Other Services,58124.0
+2025,Q2,FISIM,-80126.0
+2025,Q2,All Industries at Basic Prices,2636493.0
+2025,Q2,Taxes on Products,216807.0
+2025,Q2,GDP at Market Prices,2853300.0
+2025,Q2,"GDP, Seasonally Adjusted",2834003.0
+2025,Q3,Agriculture,395798.0
+2025,Q3,Mining & Quarrying,29120.0
+2025,Q3,Manufacturing,219794.0
+2025,Q3,Electricity & Water Supply,70460.0
+2025,Q3,Construction,161783.0
+2025,Q3,Wholesale & Retail Trade,213353.0
+2025,Q3,Accommodation & Food Services,49590.0
+2025,Q3,Transportation & Storage,278897.0
+2025,Q3,Information & Communication,97277.0
+2025,Q3,Financial & Insurance,278801.0
+2025,Q3,Public Administration,179746.0
+2025,Q3,"Professional, Admin & Support Services",83562.0
+2025,Q3,Real Estate,292768.0
+2025,Q3,Education,134450.0
+2025,Q3,Health,62243.0
+2025,Q3,Other Services,65075.0
+2025,Q3,FISIM,-86325.0
+2025,Q3,All Industries at Basic Prices,2526393.0
+2025,Q3,Taxes on Products,235312.0
+2025,Q3,GDP at Market Prices,2761705.0
+2025,Q3,"GDP, Seasonally Adjusted",2869287.0
+2025,Q4,Agriculture,424981.0
+2025,Q4,Mining & Quarrying,30993.0
+2025,Q4,Manufacturing,232372.0
+2025,Q4,Electricity & Water Supply,70815.0
+2025,Q4,Construction,170942.0
+2025,Q4,Wholesale & Retail Trade,246044.0
+2025,Q4,Accommodation & Food Services,53875.0
+2025,Q4,Transportation & Storage,279971.0
+2025,Q4,Information & Communication,105188.0
+2025,Q4,Financial & Insurance,315780.0
+2025,Q4,Public Administration,192162.0
+2025,Q4,"Professional, Admin & Support Services",83466.0
+2025,Q4,Real Estate,293584.0
+2025,Q4,Education,146911.0
+2025,Q4,Health,69504.0
+2025,Q4,Other Services,56529.0
+2025,Q4,FISIM,-79348.0
+2025,Q4,All Industries at Basic Prices,2693769.0
+2025,Q4,Taxes on Products,253956.0
+2025,Q4,GDP at Market Prices,2947724.0
+2025,Q4,"GDP, Seasonally Adjusted",2906317.0
+2026,Q1,Agriculture,568027.0
+2026,Q1,Mining & Quarrying,27954.0
+2026,Q1,Manufacturing,230901.0
+2026,Q1,Electricity & Water Supply,68571.0
+2026,Q1,Construction,160133.0
+2026,Q1,Wholesale & Retail Trade,249638.0
+2026,Q1,Accommodation & Food Services,54331.0
+2026,Q1,Transportation & Storage,264187.0
+2026,Q1,Information & Communication,101463.0
+2026,Q1,Financial & Insurance,274128.0
+2026,Q1,Public Administration,184616.0
+2026,Q1,"Professional, Admin & Support Services",81559.0
+2026,Q1,Real Estate,302993.0
+2026,Q1,Education,144144.0
+2026,Q1,Health,61046.0
+2026,Q1,Other Services,56880.0
+2026,Q1,FISIM,-76917.0
+2026,Q1,All Industries at Basic Prices,2753654.0
+2026,Q1,Taxes on Products,240052.0
+2026,Q1,GDP at Market Prices,2993706.0
+2026,Q1,"GDP, Seasonally Adjusted",2943350.0
